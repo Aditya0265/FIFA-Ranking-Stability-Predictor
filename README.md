@@ -41,12 +41,13 @@ Simulate ranking changes by adjusting points:
 ```
 📦 FIFA Ranking Stability Predictor
 │
-├── app.py                
+├── README.md
+├── app.py            
 ├── best_model.pkl       
 ├── fifa_ranking_2022-10-06.csv  
-├── requirements.txt     
-├── README.md             
-└── project.ipynb         
+├── project.py                  
+└── requirements.txt
+    
 ```
 
 ---
