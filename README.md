@@ -22,13 +22,13 @@ View:
 - Probability score  
 - Team's football association  
 
-### ✔ **2. Compare Two Teams**
+### **2. Compare Two Teams**
 Compare any two teams side-by-side:
 - Ranks  
 - Points  
 - ML predictions  
 
-### ✔ **3. Ranking Trend Simulation**
+### **3. Ranking Trend Simulation**
 Simulate ranking changes by adjusting points:
 - Increase or decrease team points  
 - See newly calculated rank  
