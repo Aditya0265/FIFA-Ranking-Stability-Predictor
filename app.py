@@ -13,7 +13,7 @@ st.set_page_config(
 # Loading dataset & model
 @st.cache_data
 def load_data():
-    return pd.read_csv("C:/Users/HP/Desktop/FIFA_Project/fifa_ranking_2022-10-06.csv")
+    return pd.read_csv("fifa_ranking_2022-10-06.csv")
 
 @st.cache_resource
 def load_model():
@@ -168,3 +168,4 @@ elif page == "Ranking Trend Simulation":
             "Rank": [current_rank, new_rank]
         }, index=["Current Rank", "Simulated Rank"])
     )
+
